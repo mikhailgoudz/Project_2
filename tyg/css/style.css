@@ -1,0 +1,253 @@
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.no-gutters   > .col,
+.no-gutters   > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+ }
+
+ .no-gutters >.row{
+     margin:0;
+ }
+
+ footer{
+
+    padding:10px;
+    color:white;
+    background-color:black;
+    text-align:center;
+}
+
+.showcase{
+    min-height: 550px;
+    background:url('../img/coverpic.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+}
+.showcaseExclusive{
+    min-height: 500px;
+    background:url('../img/exclusive1.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+
+}
+.showcaseAbout{
+
+    min-height: 600px;
+    background:url('../img/mainbg.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+
+}
+.showcaseAboutMain{
+
+    min-height: 400px;
+    background:url('../img/lion3.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+
+}
+
+.showcaseStore{
+
+    min-height: 500px;
+    background:url('../img/storeShowcase.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+
+}
+
+.showcaseMain{
+
+    min-height: 300px;
+   
+    background-size:cover;
+    background-position:center;
+    color:white;
+    background-color: black;
+
+}
+
+.showcaseExclusiveMain h2{
+
+    font-size:70px;
+    
+}
+
+
+
+
+.showcaseStore p{
+
+    color: white;
+}
+
+
+.showcaseFooter{
+    min-height: 200px;
+    background:url('../img/connect.jpg') no-repeat;
+    background-size:cover;
+    background-position:center;
+    color:white;
+
+}
+
+.center{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.font-size{
+
+    font-size:27px;
+}
+.button{
+    position: absolute;
+    
+}
+.wrapper{
+    text-align: center;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.margin{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.margin2{
+    margin-top:60px;
+}
+
+
+.noBorder{
+    border:none;
+}
+
+footer{
+    background-color: black;
+    color:black;
+
+}
+
+
+.spacing{
+    margin-top:100px;
+    margin-bottom: 80px;
+}
+
+.littleSpacing{
+
+    margin-top:50px;
+}
+
+.black{
+    background-color:white;
+}
+
+footer p{
+    float:right;
+    margin-top:10px;
+    margin-right:800px;
+    
+    
+}
+
+.margin-left{
+
+    margin-left:50px;
+}
+
+
+
+
+.margin-top-bottom{
+
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+
+
+
+
+  
+  .qButton {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .qButton:hover {
+    cursor: pointer;
+  }
+  
+  form #decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  form #increase {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  
+  form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  input#number {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+  
+
+header li{
+
+    padding: 0 5px 0 5px;
+
+}
+
+body a{
+    text-decoration: none;
+
+}
+body li{
+
+    padding: 0 3px 0 3px;
+    display:inline;
+}
