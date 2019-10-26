@@ -1,1 +1,3 @@
-# Project_2
+# TYG WEBSITE
+
+HTML and CSS only for desining purposes
